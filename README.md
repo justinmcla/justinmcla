@@ -1,23 +1,14 @@
 ### Hello there. 👋 I'm Justin.
 
-🔭 Current projects:
-* Collabs, a social network for creatives
-* VenueMC, a CMS for venue managers
+🔭 Current projects: Collabs, a social network for creatives; VenueMC, a CMS for venue managers
 
-🌱 Currently learning:
-* Next.js, TypeScript
-* GraphQL
-* Java
+🌱 Currently learning: Next.js, TypeScript, GraphQL, Java
 
-💬 Ask me about:
-* How I can help contribute to your codebase!
+💬 Ask me about: How I can help contribute to your codebase!
 
-📫 How to reach me:
-* jwmclawhorn [at] gmail [dot] com
-* https://linkedin.com/in/justinmclawhorn
+📫 How to reach me: jwmclawhorn [at] gmail [dot] com; https://linkedin.com/in/justinmclawhorn
 
-😄 Pronouns:
-* He/Him/His
+😄 Pronouns: He/Him/His
 
 <!--
 **justinmcla/justinmcla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
