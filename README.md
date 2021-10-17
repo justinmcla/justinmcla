@@ -1,8 +1,8 @@
 ### Hello there. 👋 I'm Justin.
 
-🔭 Current projects: Collabs, a social network for creatives; VenueMC, a CMS for venue managers
+🔭 Current project(s): VenueMC, a CMS for venue managers; software mapping
 
-🌱 Currently learning: Next.js, TypeScript, GraphQL, Java
+🌱 Currently learning: Java, C++
 
 💬 Ask me about: How I can help contribute to your codebase!
 
