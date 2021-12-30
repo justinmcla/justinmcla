@@ -1,4 +1,4 @@
-### Hello there. 👋 I'm Justin, a software developer at Ferguson Enterprises.
+### Hello there. 👋 I'm Justin, and I'm a software developer.
 
 🔭 Current project(s): Software mapping, application extensions, performance metrics, and cloud integrations.
 
