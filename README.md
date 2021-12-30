@@ -10,8 +10,6 @@
 
 😄 Pronouns: He/Him/His
 
-⚡ Fun fact: My cat Lucie is a fighter pilot for the Rebel Alliance in Calico Squadron; she was commended for her bravery in the un-fur-gettable Battle above Cat-mino!
-
 <!--
 **justinmcla/justinmcla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
