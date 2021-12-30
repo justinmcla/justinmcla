@@ -1,14 +1,16 @@
-### Hello there. 👋 I'm Justin.
+### Hello there. 👋 I'm Justin, a software developer at Ferguson Enterprises.
 
-🔭 Current project(s): VenueMC, a CMS for venue managers; software mapping
+🔭 Current project(s): Software mapping, application extensions, performance metrics, and cloud integrations.
 
 🌱 Currently learning: Java, C++
 
-💬 Ask me about: How I can help contribute to your codebase!
+💬 Ask me about: Making a massive career shift during a global pandemic! 😅
 
 📫 How to reach me: jwmclawhorn [at] gmail [dot] com; https://linkedin.com/in/justinmclawhorn
 
 😄 Pronouns: He/Him/His
+
+⚡ Fun fact: My cat Lucie is a fighter pilot for the Rebel Alliance in Calico Squadron; she was commended for her bravery in the un-fur-gettable Battle above Cat-mino!
 
 <!--
 **justinmcla/justinmcla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
