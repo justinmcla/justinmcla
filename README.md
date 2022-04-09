@@ -2,9 +2,7 @@
 
 🔭 Current project(s): Software mapping, application extensions, performance metrics, and cloud integrations.
 
-🌱 Currently learning: Java, C++
-
-💬 Ask me about: Making a massive career shift during a global pandemic! 😅
+📝 Check out my blog: https://justinmclawhorn.com
 
 📫 How to reach me: jwmclawhorn [at] gmail [dot] com; https://linkedin.com/in/justinmclawhorn
 
