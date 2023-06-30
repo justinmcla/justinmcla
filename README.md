@@ -4,7 +4,7 @@
 
 📝 Check out my blog: https://justinmclawhorn.com
 
-📫 How to reach me: jwmclawhorn [at] gmail [dot] com; https://linkedin.com/in/justinmclawhorn
+📫 How to reach me: https://linkedin.com/in/justinmclawhorn
 
 😄 Pronouns: He/Him/His
 
