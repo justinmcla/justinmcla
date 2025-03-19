@@ -1,6 +1,6 @@
 ### Hello there. 👋 I'm Justin, and I'm a software developer.
 
-🔭 Current project(s): Software mapping, application extensions, performance metrics, and cloud integrations.
+🔭 Current project(s): Custom web applications for business users, serverless automations and integrations
 
 📝 Check out my blog: https://justinmclawhorn.com
 
